@@ -78,7 +78,7 @@
             android:id="@+id/pwd_txt_sup"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Type Your Password"
+            android:hint="Type Your Password [Atleast 8 letters]"
             android:inputType="textPassword" />
     </com.google.android.material.textfield.TextInputLayout>
 
